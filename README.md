@@ -1,6 +1,6 @@
 # Classification Modelling - Fruits
 
-**An introductuon into model evaluation for Logistic regression, Decision trees, Random forest models via the Sklearn package**
+**An exploration into model evaluation for Logistic regression, Decision trees, Random forest models via the Sklearn package**
 
 ### Business Situation
 A farm is looking to scale up their business and is willing to purchase new machinery that will allow them to separate oranges and passion fruit. The machine is unable to recognise the difference between the two fruits but fortunately they have collected the features of both fruits and believe that the features the characteristics of each fruit is strong enough to determine which fruit passes through the machine. They are looking to hire a data scientist who is capable of building a deployable model that can classify the fruit. 
